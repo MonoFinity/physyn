@@ -1,0 +1,7 @@
+C:\git\physyn\obj\x64\Debug\net6.0\physyn.csproj.AssemblyReference.cache
+C:\git\physyn\obj\x64\Debug\net6.0\VstNetMidiPlugin.UI.PluginEditorView.resources
+C:\git\physyn\obj\x64\Debug\net6.0\physyn.csproj.GenerateResource.cache
+C:\git\physyn\obj\x64\Debug\net6.0\physyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\physyn\obj\x64\Debug\net6.0\physyn.AssemblyInfoInputs.cache
+C:\git\physyn\obj\x64\Debug\net6.0\physyn.AssemblyInfo.cs
+C:\git\physyn\obj\x64\Debug\net6.0\physyn.csproj.CoreCompileInputs.cache

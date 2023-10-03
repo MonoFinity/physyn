@@ -2,7 +2,6 @@
 using Jacobi.Vst.Plugin.Framework;
 using Jacobi.Vst.Plugin.Framework.Common;
 using System;
-using System.Drawing;
 using System.Linq;
 using VstNetMidiPlugin.UI;
 

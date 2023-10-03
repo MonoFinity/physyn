@@ -1,6 +1,5 @@
 ﻿using Jacobi.Vst.Plugin.Framework;
 using System.Collections.Generic;
-using System.Windows.Forms;
 
 namespace VstNetMidiPlugin.UI
 {

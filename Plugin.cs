@@ -65,5 +65,7 @@ namespace VstNetMidiPlugin
                 .AddSingletonAll<PluginEditor>()
                 .AddSingletonAll<PluginPrograms>();
         }
+
+
     }
 }

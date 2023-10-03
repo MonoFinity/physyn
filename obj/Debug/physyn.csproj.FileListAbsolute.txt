@@ -1,0 +1,4 @@
+C:\git\physyn\obj\Debug\physyn.csproj.AssemblyReference.cache
+C:\git\physyn\obj\Debug\VstNetMidiPlugin.UI.PluginEditorView.resources
+C:\git\physyn\obj\Debug\physyn.csproj.GenerateResource.cache
+C:\git\physyn\obj\Debug\physyn.csproj.CoreCompileInputs.cache
